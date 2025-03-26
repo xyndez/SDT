@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/43cd1ac7-8b2f-44d6-91a8-2ac11a38c1e8" alt="SDT" width="16" style="vertical-align: middle;"/> # SDT - Simple Data Tool
+# <img src="https://github.com/user-attachments/assets/43cd1ac7-8b2f-44d6-91a8-2ac11a38c1e8" alt="SDT" width="30" style="vertical-align: middle;"/> SDT - Simple Data Tool
+
 
 ![image](https://github.com/user-attachments/assets/1c07a8d4-d2ea-420a-b163-365b8a91ecfc)
 
