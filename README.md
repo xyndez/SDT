@@ -14,6 +14,7 @@ SDT is a fast and easy tool for cleaning, extracting, and organizing domain-base
 ### Option 1: Install executable (Windows 10+)
 [Release download
 ](https://github.com/xyndez/SDT/releases/download/v1.1/SimpleDataTool.v1.1.zip)
+[Virus total](https://www.virustotal.com/gui/file/e36e5e2cb63c4767cde95380c5b6ae8da581a2c67e0d216c67e3f021ad1c6804?nocache=1)
 ### Option 2: Install via Python (requires Python 3.8+)
 
 1. **Install Python**
