@@ -1,4 +1,6 @@
 # SDT - Simple Data Tool
+![image](https://github.com/user-attachments/assets/1c07a8d4-d2ea-420a-b163-365b8a91ecfc)
+
 
 **Precision Data Extraction & Analysis**
 
