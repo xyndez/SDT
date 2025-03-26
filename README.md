@@ -13,7 +13,7 @@ SDT is a fast and easy tool for cleaning, extracting, and organizing domain-base
 ## Installation
 ### Option 1: Install executable (Windows 10+)
 [Release download
-](https://github.com/xyndez/SDT/archive/refs/heads/main.zip)
+](https://github.com/xyndez/SDT/releases/download/v1.1/SimpleDataTool.v1.1.zip)
 ### Option 2: Install via Python (requires Python 3.8+)
 
 1. **Install Python**
